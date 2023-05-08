@@ -1,0 +1,26 @@
+#venueBandSection {
+    display: flex;
+    justify-content: space-around;
+    
+}
+#bookingSection {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    align-items: center;
+    border: 10px solid green;
+}
+.bottomSection {
+    flex-basis: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 10px solid blue;
+}
+
+#bookingSection h2 {
+    float: center;
+}
+body {
+    font-size: large;
+}
