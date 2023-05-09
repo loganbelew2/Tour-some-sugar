@@ -23,4 +23,14 @@
 }
 body {
     font-size: large;
+    background-color:paleturquoise ;
+}
+
+.topSection {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.topSection h2 {
+    align-self: center;
 }
